@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>benz</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="2" sketch:type="MSArtboardGroup" transform="translate(-188.000000, -210.000000)" fill="#FFFFFF">
+            <g id="carlogo" sketch:type="MSLayerGroup" transform="translate(17.000000, 152.000000)">
+                <path d="M186.999074,59.2074773 C178.852306,59.2074773 172.207477,65.8523063 172.207477,73.999074 C172.207477,82.1458418 178.852306,88.7906708 186.999074,88.7906708 C195.145842,88.7906708 201.790671,82.1458418 201.790671,73.999074 C201.790671,65.8523063 195.145842,59.2074773 186.999074,59.2074773 L186.999074,59.2074773 Z M186.999074,59.2722959 L184.563748,72.5915852 L174.211297,81.3569072 L186.999074,76.7992361 L199.786851,81.3569072 L189.4344,72.5915852 L186.999074,59.2722959 Z M186.999074,58 C195.810695,58 203,65.187453 203,73.999074 C203,82.812547 195.810695,90 186.999074,90 C178.187453,90 171,82.812547 171,73.999074 C171,65.187453 178.187453,58 186.999074,58 L186.999074,58 Z" id="benz" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

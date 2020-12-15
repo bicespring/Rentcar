@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="5" sketch:type="MSArtboardGroup" transform="translate(-157.000000, -491.000000)" fill="#7ED321">
+            <g id="手机" sketch:type="MSLayerGroup" transform="translate(93.500000, 433.000000)">
+                <path d="M81.3356853,58 L65.0461307,58 C64.328334,58 63.7614191,58.5737524 63.7614191,59.2815119 L63.7614191,75.2794118 L66.6421286,75.2794118 L66.6421286,61.3995149 C66.6421286,61.051671 66.9306204,60.7647059 67.2864932,60.7647059 L81.3356853,60.7647059 L81.3356853,58 L81.3356853,58 Z" id="Path" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
